@@ -1,2 +1,2 @@
-# python-template
-Self-use python template
+# Mjolnir
+Smart contract expandable static analysis framework
